@@ -1,0 +1,2 @@
+CalcClass
+CalculatorClass for Continuous Integration
